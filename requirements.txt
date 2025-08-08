@@ -8,6 +8,6 @@ plotly
 scikit-learn
 matplotlib
 openpyxl
-python==3.11
+python=3.11
 
 
