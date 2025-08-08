@@ -1,6 +1,10 @@
 # app.py
 import streamlit as st
 st.set_page_config(page_title="Pharma DOE & RSM — Polished Lab App", layout="wide")
+pyenv install 3.11.8
+pyenv local 3.11.8
+pip install -r requirements.txt
+
 
 # Standard imports
 import pandas as pd
