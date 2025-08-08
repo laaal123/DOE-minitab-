@@ -1,12 +1,12 @@
-python==3.11.8
 streamlit
 pandas
 numpy
 scipy
+scikit-learn
+xgboost
 statsmodels
 pyDOE2
 plotly
-scikit-learn
 matplotlib
 openpyxl
 
