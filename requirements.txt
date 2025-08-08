@@ -1,3 +1,4 @@
+python==3.11.8
 streamlit
 pandas
 numpy
@@ -8,6 +9,6 @@ plotly
 scikit-learn
 matplotlib
 openpyxl
-python==3.11.8
+
 
 
